@@ -51,8 +51,11 @@
 
 # 🌟 Featured Projects
 <p align="center">
-  <a href="https://github.com/mondal-paushali03/drone-navigation-rl">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mondal-paushali03&repo=drone-navigation-rl&theme=radical" />
+  <a href="https://github.com/mondal-paushali03/early-childhood-education-dashboard">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mondal-paushali03&repo=early-childhood-education-dashboard&theme=radical" />
+  </a>
+  <a href="https://github.com/mondal-paushali03/global-economic-insights">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mondal-paushali03&repo=global-economic-insights&theme=radical" />
   </a>
   <a href="https://github.com/mondal-paushali03/stillpoint-journal">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=mondal-paushali03&repo=stillpoint-journal&theme=radical" />
