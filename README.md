@@ -74,12 +74,4 @@
   <img src="https://nirzak-streak-stats.vercel.app/?user=mondal-paushali03&theme=tokyonight&hide_border=false" height="150"/>
 </p>
 
----
-
-## 🏆 GitHub Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mondal-paushali03&theme=radical&no-frame=false&no-bg=true&margin-w=4"/>
-</p>
-
----
 
