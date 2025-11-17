@@ -51,8 +51,8 @@
 
 # 🌟 Featured Projects
 <p align="center">
-  <a href="https://github.com/mondal-paushali03/early-childhood-education-dashboard">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mondal-paushali03&repo=early-childhood-education-dashboard&theme=radical" />
+  <a href="https://github.com/mondal-paushali03/multilingual-review-insights-rag">
+     <img src="https://github-readme-stats.vercel.app/api/pin/?username=mondal-paushali03&repo=multilingual-review-insights-rag&theme=radical" />
   </a>
   <a href="https://github.com/mondal-paushali03/global-economic-insights">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=mondal-paushali03&repo=global-economic-insights&theme=radical" />
