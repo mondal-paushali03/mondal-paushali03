@@ -45,32 +45,3 @@
 ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) 
 ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white) 
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)  
-
----
-
-# 🌟 Featured Projects
-<p align="center">
-  <a href="https://github.com/mondal-paushali03/multilingual-review-insights-rag">
-     <img src="https://github-readme-stats.vercel.app/api/pin/?username=mondal-paushali03&repo=multilingual-review-insights-rag&theme=radical" />
-  </a>
-  <a href="https://github.com/mondal-paushali03/global-economic-insights">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mondal-paushali03&repo=global-economic-insights&theme=radical" />
-  </a>
-  <a href="https://github.com/mondal-paushali03/stillpoint-journal">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mondal-paushali03&repo=stillpoint-journal&theme=radical" />
-  </a>
-</p>
-
----
-
-# 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mondal-paushali03&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mondal-paushali03&theme=tokyonight&layout=compact&hide_border=false" height="170"/>
-</p>
-
-<p align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=mondal-paushali03&theme=tokyonight&hide_border=false" height="150"/>
-</p>
-
-
